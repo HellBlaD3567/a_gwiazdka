@@ -1,3 +1,7 @@
+# *****************************
+# * @author Kamil Tanasiewicz *
+# * @indeks 147332            *
+# *****************************
 import math
 # klasa przechowujaca nam informacje zapisywane w liscie otwartej i zamkniete
 # jednoczesnie jako obiekt wpis jest na liscie jest referencyjny
