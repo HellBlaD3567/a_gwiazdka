@@ -171,7 +171,6 @@ def wczytajPlansze(mapa):
     for wiersz in plik:
         plansza.append([int(x) for x in wiersz.strip().split(' ')]);
 
-    print(plansza)
     return plansza       
 
 # zamiana cyfr na symbole dla przejrzystosci
